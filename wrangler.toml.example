@@ -1,0 +1,12 @@
+name = "evmos-rpc-proxy"
+type = "javascript"
+account_id = ""
+workers_dev = true
+zone_id = ""
+
+route = ""
+
+[vars]
+EDGE_CACHE_TTL = 60
+BROWSER_CACHE_TTL = 0
+PROVIDERS = '["https://provider.com/key", "https://another.provider/api"]'

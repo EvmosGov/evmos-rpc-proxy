@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "evmos-rpc-proxy",
+    "version": "0.1.0",
+    "description": "CLoudflare Wrangler to ease the load off Evmos RPC endpoints",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }
