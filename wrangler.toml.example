@@ -1,4 +1,4 @@
-name = "evmos-rpc-proxy"
+name = "evmos-api-proxy"
 type = "javascript"
 account_id = ""
 workers_dev = true
